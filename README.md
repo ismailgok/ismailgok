@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **HTML, CSS3, JavaScript, C#, SEO,**
 
-- 📫 How to reach me [ismayilgok16@gmail.com](mail) 
+- 📫 How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ismailgok/](linkedin)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/ismailgok">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, VueJS, .NET Core Mvc**
 
-- 🤝 I’m looking for help with **JavaScript Example Project**
+- 🤝 I’m looking for help with **JavaScript Example Projects**
 
 - 💬 Ask me about **HTML, CSS3, JavaScript, C#, SEO,**
 

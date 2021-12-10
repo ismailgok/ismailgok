@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, VueJS, .NET Core Mvc**
+-  I’m currently learning **NodeJS, ReactJS, VueJS, .NET Core Mvc**
 
-- 🤝 I’m looking for help with **JavaScript Example Projects**
+-  I’m looking for help with **JavaScript Example Projects**
 
-- 💬 Ask me about **HTML, CSS3, JavaScript, C#, SEO,**
+-  Ask me about **HTML, CSS3, JavaScript, C#, SEO,**
 
-- 📫 How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
+-  How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/ismailgok">here</a>
+-  Know about my experiences <a href="https://linkedin.com/in/ismailgok">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

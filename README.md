@@ -11,7 +11,7 @@
 
 -  Know about my experiences <a href="https://linkedin.com/in/ismailgok">here</a>
 
-- ![](https://komarev.com/ghpvc/?username=ismailgok&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ismailgok&label=PROFILE+VIEWS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

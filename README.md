@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
--  I’m currently learning **NodeJS, ReactJS, VueJS, .NET Core Mvc, TypeScript**
+-  I’m currently learning **NodeJS, ReactJS, .NET Core Mvc**
 
 -  I’m looking for help with **JavaScript Example Projects**
 

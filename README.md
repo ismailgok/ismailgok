@@ -9,10 +9,6 @@
 
 -  How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
 
--  Know about my experiences <a href="https://linkedin.com/in/ismailgok">here</a>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ismayiiil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ismayiiil" width="30" height="30" /></a>            

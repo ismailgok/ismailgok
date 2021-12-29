@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İsmail</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
 -  I’m currently learning **ReactJS, .NET Core MVC**

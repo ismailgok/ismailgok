@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
 -  I’m currently learning **ReactJS, .NET Core MVC**
-
-
 -  How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
+<h3 align="center">A passionate Frontend Developer from Turkey</h3>
 - I’m currently learning Redux, NextJs, TypeScript 
 - How to reach me <a href="https://linkedin.com/in/ismailgok">here</a>
 
